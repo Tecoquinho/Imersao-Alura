@@ -26,7 +26,7 @@ public class App {
 		List<Map<String, String>> listaDeFilmes = parser.parse(body);	
 		System.out.println(listaDeFilmes.size());
 		// Exibir e manipular os dados
-		
+		System.out.println();
 		
 	}
 }
